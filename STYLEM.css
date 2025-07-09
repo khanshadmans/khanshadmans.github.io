@@ -1,0 +1,92 @@
+    .pgb{
+        background-color:black;
+    }
+    .dvtitle {
+     border:2px outset blue;
+     background-color:black;
+     text-align:center;
+     padding:1%;
+
+    }
+    .dvwarn {
+    border: 4px outset orange;
+    background-color: red;
+    text-align: center;
+    color: yellow;
+    }
+
+    .dvmainbt {
+     border:2px outset orange;
+     background-color:blue;
+    margin-right: 75%;
+    margin-left: 10%;
+
+     
+    }
+    .divmove{
+        border:0px outset blue;
+        background-color: blue;
+        text-align: left;
+        margin-left: 45px;
+    }
+    .dvtest{
+        border:0px outset blue;
+        background-color: blue;
+        text-align: center;
+        margin-left: 25px;
+    }
+    .dvmainb1 {
+    border:0px outset black;
+    background-color:black;
+    text-align:left;
+    margin-top: 25px;
+    margin-right: 15%;
+    margin-left: 15%;
+
+    }
+    .imgm{
+	width:150px;
+    height: 150px;
+    display:flex
+    }
+	 .cmain {
+     border:0px outset black;
+     background-color:black;
+     text-align:left;
+    }
+    .lcntr{
+    margin-top: 25px;
+    margin-right: 500px;
+    margin-left: 20%;   
+    }
+    nav{
+        display:flex;
+        justify-content:space-between;
+        position:sticky;
+        text-align:center;
+        padding: 0.5% 55%;
+        font-size: 25px;
+    }
+    nav>ul{
+        display:flex;
+        gap:30%;
+        list-style-type: none;
+        color:white;
+     
+    }
+    nav>ul>li>a{
+        color:white;
+        text-decoration: none;
+    }
+    nav>ul>li>a:hover{
+        color:white;
+        text-decoration:underline;
+    }
+    .info{
+        color:yellow;
+        text-decoration: none;
+    }
+    .info:hover{
+        color:orange;
+        text-decoration: underline;
+    }
