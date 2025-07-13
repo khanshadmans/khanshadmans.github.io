@@ -92,7 +92,7 @@
 	
 	}
 	.formo{
-max-width: 860px;
+		max-width: 860px;
 		margin: auto;
 		width: 100%;
 		display:grid;
