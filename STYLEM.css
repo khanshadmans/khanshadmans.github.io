@@ -102,3 +102,7 @@
 		box-shadow: 0 0 1rem hsla(0 0 0/1);
 		margin: auto;
 	}
+	.fxfr{
+		display:grid;
+		grid-template-columns: repeat(2,1fr);
+	}
