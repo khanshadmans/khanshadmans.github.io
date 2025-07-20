@@ -107,7 +107,7 @@
 		grid-template-columns: repeat(2,1fr);
 	}
 	.mngrd{
-		max-width 500px;
+		max-width: 500px;
 		margin:auto;
 		width:100%;
 		display:grid;
